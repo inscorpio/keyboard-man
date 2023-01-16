@@ -1,4 +1,4 @@
-## terminal
+## vscode terminal
 
 - `ctrl+anti-quote`: toggle terminal
 - `cmd+k`: clear
